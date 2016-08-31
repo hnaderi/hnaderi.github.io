@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
 title: Projects
 ---
-####**Projects**
 here are my projects listed in order of start time, I will be glad to answer your questions about them.
 
 project name | description|team|responsibility|year|status
